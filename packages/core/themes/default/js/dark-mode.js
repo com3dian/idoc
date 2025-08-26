@@ -6,7 +6,7 @@
  *
  * Licensed under the MIT license.
  * @license Copyright © 2022. Licensed under the MIT License
- * @author kenny wong <wowohoo@qq.com>
+ * @author Zehao Lu
  */
 const t = document;
 const e = '_dark_mode_theme_';
